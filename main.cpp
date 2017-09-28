@@ -22,7 +22,7 @@ void alphabetSoup(){
    int imitation[userInput.length()];
    string actualLetter[userInput.length()];
 
-   //Initializing the number of letters in ASCII
+   //Initializing the position of letters in ASCII
 
    for(int a = 0;a < userInput.length();a++){
 
